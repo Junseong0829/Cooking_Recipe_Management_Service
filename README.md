@@ -16,7 +16,7 @@
 - Frontend
 : "cd frontend" -> "npm start"
 
-종료는 둘 다 터미널에서 ctrl + c 단축키를 통해 할 수 있습니다.
+종료는 Backend, Frontend 모두 터미널에서 ctrl + c 단축키를 통해 할 수 있습니다.
 
 ## 📺화면 구성
 ### 🔴Home
