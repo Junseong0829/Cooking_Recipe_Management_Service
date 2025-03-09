@@ -18,6 +18,9 @@
 
 종료는 Backend, Frontend 모두 터미널에서 ctrl + c 단축키를 통해 할 수 있습니다.
 
+<br />
+
+
 ## 📺화면 구성
 ### 🔴Home
 <img width="1269" alt="Image" src="https://github.com/user-attachments/assets/7a25ca36-34fd-48b7-ae55-563b447770ac" />
