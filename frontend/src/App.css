@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  font-family:'NanumBarunPen';
+}
+ul{
+  list-style:none;
+}
+li{
+  padding:5px 10rem;
+  text-align:center;
+  font-weight:bold;
+  display:inline-block;
+  font-size:30px;
+  list-style-type:none;
+}
+h1{
+  margin-bottom:5px;
+  font-size:50px;
+}
+.head{
+  text-align:center;
+  border-radius:15px;
+  background:#F8F3D9;
+}
+.main{
+  text-align:center;
+  border-radius:15px;
+  background:#EBE5C2;
+  margin:0px;
+  padding:20px;
+}
+.footer{
+  font-size: 13px;
+  text-align:right;
+  padding:10px;
+  padding-right:30px;
+  line-height:8px;
+  border-radius:15px;
+  background:#B9B28A;
+}

@@ -1,0 +1,74 @@
+.calculator{
+    font-size:40px;
+    font-weight:bold;
+    border-radius:30px;
+    border:3px dashed black;
+}
+.summary{
+    padding-top:30px;
+    padding-left:30px;
+    font-size:30px;
+    text-align: left;
+    flex:1;
+}
+.select{
+    margin:auto;
+    padding-bottom:30px;
+    display:flex;
+    flex:left;
+}
+.meal{
+    margin:auto;
+}
+.picture{
+    margin:auto;
+    border-radius: 10%;
+    width:350px;
+    height: 350px;
+}
+.select-box {
+    width: 320px;
+    height:70px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ff8c00;
+    border-radius: 5px;
+    background-color: #fffaf0;
+    color: #333;
+    cursor: pointer;
+} 
+.select-box:focus {
+outline: none;
+border-color: #ff4500;
+}
+.select-box option {
+background-color: #fffaf0;
+color: #333;
+}
+.temp{
+    margin:auto;
+    display:flex;
+    flex:left;
+}
+.chartWrapper {
+    display: flex;
+    justify-content: center;  /* 차트를 가로로 배치 */
+    align-items: center;
+    gap: 50px;  /* 차트 사이 여백 */
+    width: 95%;  /* 부모 요소에 맞춤 */
+    margin:20px;
+    padding:20px;
+}
+.chartContainer {
+    flex: 1;  /* 두 개의 차트가 동일한 너비 차지 */
+    min-width: 500px;  /* 최소 너비 설정 */
+    height: 400px;  /* 고정 높이 */
+    background-color: white;  /* 배경색 추가 */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);  /* 그림자 효과 */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,22 @@
+h2{
+    text-align:left;
+    font-size:30px;
+    margin-top:5px;
+}
+.galleryStyle{
+    display:grid;
+    grid-template-columns: repeat(auto-fill,minmax(220px,1fr));
+    gap:20px;
+    padding:20px;
+}
+.linkStyle{
+    text-decoration:none;
+    color:black;
+    text-align:center;
+}
+.imageStyle_1{
+    width:250px;
+    height:250px;
+    border-radius:10px;
+    cursor:pointer;
+}
