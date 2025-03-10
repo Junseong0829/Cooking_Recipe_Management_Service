@@ -24,21 +24,16 @@
 
 ## 📺화면 구성
 ### 🔴Home
-<img width="1269" alt="Image" src="https://github.com/user-attachments/assets/7a25ca36-34fd-48b7-ae55-563b447770ac" />
-<img width="1257" alt="Image" src="https://github.com/user-attachments/assets/d9a5eb6b-c624-499d-b214-e7128eb19729" />
+![Image](https://github.com/user-attachments/assets/b38315a2-c314-4d65-9542-f7731d48f42a)
 
 ### 🔴Recipe Detail
-<img width="1259" alt="Image" src="https://github.com/user-attachments/assets/d431c572-a372-41a0-b35b-8f50410460db" />
-<img width="1256" alt="Image" src="https://github.com/user-attachments/assets/cc0ed92a-68f2-45a0-8a5b-5dd5d2db1c3b" />
+![Image](https://github.com/user-attachments/assets/16ae9797-9fd2-4434-a448-87d97e47a881)
 
 ### 🔴Category
-<img width="1244" alt="Image" src="https://github.com/user-attachments/assets/4df71803-c6ae-444d-ae00-946308aea712" />
-<img width="1246" alt="Image" src="https://github.com/user-attachments/assets/9ad064bb-701b-4808-a756-aed251919909" />
-<img width="1242" alt="Image" src="https://github.com/user-attachments/assets/9bb0abd2-a36d-409b-bc1d-3a92aad22cd8" />
+![Image](https://github.com/user-attachments/assets/bb50164d-1903-4370-88f3-1680fa7ee437)
 
 ### 🔴Calculator
-<img width="1260" alt="Image" src="https://github.com/user-attachments/assets/6488daf5-f132-4e43-81ff-50d370f14d9e" />
-<img width="1242" alt="Image" src="https://github.com/user-attachments/assets/b32f6491-57a7-4401-9a2a-5012e5c8ecce" />
+![Image](https://github.com/user-attachments/assets/f7896e97-6053-422a-bfbe-421c84888244)
 
 <br />
 
